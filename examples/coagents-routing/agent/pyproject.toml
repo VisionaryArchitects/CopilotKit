@@ -9,7 +9,7 @@ packages = [{include = "my_agent"}]
 [tool.poetry.dependencies]
 python = ">=3.10,<3.13"
 copilotkit = "0.1.56a0"
-langchain-core = "^0.3.25"
+langchain-core = "^0.3.81"
 langchain-openai = "0.2.3"
 langchain-community = "^0.3.1"
 langchain-anthropic = "0.3.17"
